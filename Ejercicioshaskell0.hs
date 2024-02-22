@@ -1,3 +1,4 @@
+-- Gabriel Abrego Estrada y Julio César Lara Lerma 
 --1. **Suma de elementos en una lista:**
 --   - Definir una función `sumarLista :: [Int] -> Int` que sume todos los elementos de una lista de enteros.
 sumarLista :: [Int] -> Int
